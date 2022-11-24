@@ -95,8 +95,12 @@ h3{
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+.cont_x3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
 @media screen and (max-width:1000px) {
-    .container{
+    .container .cont_x3{
         display: grid;
         grid-template-columns: 1fr;
         border: 1px solid;
