@@ -82,3 +82,16 @@ img{
     margin-right: auto;
     width: 50%;
 }
+h3{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.p_30{
+    font-size: 30px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
