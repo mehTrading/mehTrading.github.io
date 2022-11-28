@@ -91,6 +91,9 @@ h3{
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
 }
+.p_15{
+  font-size: 20px;
+}
 
 .container{
     display: grid;
